@@ -22,7 +22,7 @@ body {
 div#interface {
 	width: 1000px;
 	background: linear-gradient(72deg,#3c3a3a 1%, #151212 99%);
-	margin: -80px auto 0px auto;
+	margin: auto auto auto auto;
 	box-shadow: 0px 0px 10px #3c4441;
 }
 
@@ -33,7 +33,7 @@ p {
 	font-family: 'Quicksand', sans-serif;
 }
 
-h1 {
+h2 {
 	text-indent: 200px;
 }
 
@@ -43,18 +43,6 @@ h1 {
 	position: relative;
 	top: 50px;
 	left: 200px;
-}
-
-nav#menu p.home {
-	font-family: 'fonteLogo', sans-serif;
-	font-size: 90px;
-	text-decoration: none;
-	position: relative;
-	top: 50px;
-	left: 50px;
-	margin-left: 10px;
-	width: 300px;
-	
 }
 
 nav#menu {
