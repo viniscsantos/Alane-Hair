@@ -20,7 +20,7 @@ body {
 }
 
 div#interface {
-	width: 1000px;
+	width: 1300px;
 	background: linear-gradient(72deg,#3c3a3a 1%, #151212 99%);
 	margin: -80px auto 0px auto;
 	box-shadow: 0px 0px 10px #3c4441;
