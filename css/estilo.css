@@ -41,7 +41,7 @@ h2 {
 .logo {
 	position: relative;
 	top: 50px;
-	left: 200px;
+	right: -10%;
 }
 
 nav#menu {
@@ -69,6 +69,14 @@ nav#menu a {
 	text-decoration: none;
 }
 
+h2#serviços {
+	height: 10px;
+	width: 900px;
+	position: relative;
+	left: 9%;
+	font-size: 40px;
+}
+
 nav#menu a:hover {
 	text-decoration: underline;
 }
@@ -87,13 +95,13 @@ input {
 
 div#fotos {
 	position: relative;
-	top: 100px;
+	top: 300px;
 	left: 250px;
 }
 
 .content {
-	height: 768px;
-	width: 600px;
+	height: 1068px;
+	width: 900px;
 	border-radius: 20px;
 	overflow: hidden;
 	position: relative;	
@@ -114,8 +122,8 @@ div#fotos {
 
 .bar {
 	bottom: auto;
-	width: 70px;
-	height: 17px;
+	width: 100px;
+	height: 37px;
 	border: 1px solid #fff;
 	margin: 6px;
 	border-radius: 50px;
