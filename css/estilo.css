@@ -10,7 +10,6 @@
 
 
 body {
-	background-color: #151212;
     font-family: Arial, sans-serif;
 	color: #fff;
 	margin: 0;
@@ -23,7 +22,7 @@ div#interface {
 	background: linear-gradient(72deg,#E7BECA 1%, #E7BECA 99%);
 	width: 1000px;
 	margin: auto;
-	
+	box-shadow: 1px 1px 10px #a2a2a2;
 }
 
 h2 {
