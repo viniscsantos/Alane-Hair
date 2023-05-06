@@ -49,11 +49,8 @@ nav {
 }
 nav > a {
 	text-decoration: none;
-	
 	padding: 10px;
 	color: var(--cor1);
-	text-transform: uppercase;
-	
 }
 nav > a:hover {
 	position: relative;
@@ -95,7 +92,7 @@ div#fotos {
 	margin: auto;	
 	position: relative;
 	top: 220px;
-	left: 211px;
+	left: 191px;
 	transform: translate(-50%, -50%);
 }
 
