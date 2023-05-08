@@ -49,8 +49,10 @@ nav {
 }
 nav > a {
 	text-decoration: none;
+	font-size: 0.8em;
 	padding: 10px;
 	color: var(--cor1);
+	text-transform: uppercase;
 }
 nav > a:hover {
 	position: relative;
@@ -58,6 +60,9 @@ nav > a:hover {
 	top: 4px;
 	transition: .3s;
 	box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.106);
+}
+.link {
+	color: var(--cor3);
 }
 article {
 	background-color: var(--cor1);
@@ -184,4 +189,8 @@ footer {
 	background-color: #A88A63;
 	text-align: center;
 	color: var(--cor1);
+	padding: 10px 0px 0px;
+}
+footer > p {
+	font-size: smaller;
 }
